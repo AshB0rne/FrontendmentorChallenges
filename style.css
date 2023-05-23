@@ -23,11 +23,6 @@ body {
   background: white;
   border-radius: 20px;
   box-shadow: 0 0 20px rgba(100, 100, 100, 0.15);
-  cursor: pointer;
-  transition: 0.2s;
-}
-.inner-wrapper:hover {
-  box-shadow: 0 0 20px rgba(100, 100, 100, 0.25);
 }
 .inner-wrapper img {
   height: 280px;
